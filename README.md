@@ -1,4 +1,4 @@
-# Everdonor-documentation
+# Everdonor Documentacion
 
 <p align="center">
   <img src="Icono.jpg" />
@@ -6,7 +6,7 @@
 
 ## Proposito
 
-El proposito de esta aplicacion es facilitar la conexion entre gente con ganas de donar y gente en situacion de necesitar en la misma, mediante una interfaz util que logre hacer la localizacion de 
+El proposito de esta aplicacion es facilitar la conexion entre gente con ganas de donar y centros u organizaciones que distribuyan a personas en situacion de necesitad. Buscamos lograr este objetivo mediante una interfaz simple e intuitiva que logre hacer la localizacion del donante y mostrar los centros mas cercanos.
 
 ## Arquitectura
 
@@ -22,15 +22,14 @@ La parte de cliente es la cargada de mostrar los datos de cada unos de los Donad
 
 - [Repositorio de servidor frontend](https://github.com/Everdonor/Everdonor-Front-End)
 
-- [Repositorio de servidor backend](https://github.com/Everdonor/everdonor-documentation)
+- [Repositorio de servidor backend](https://github.com/Everdonor/everdonor-backend)
 
 ## Tecnologias
 
 - **[React](https://reactjs.org/docs/getting-started.html):** para el desarrollo del frontend utilizamos React (biblioteca escrita en JavaScript), facilita la creación de componentes interactivos y reutilizables.
-- **[Spring](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/index.html):** Como framework para el desarrollo de la aplicación por todas las herramientas que disponibiliza para facilitar el "cableado" entre las capas de servicios y controllers, simplificación de sintaxis y orquestado de la arquitectura backend.
+- **[Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/):** Como framework para el desarrollo de la aplicación por todas las herramientas que disponibiliza para facilitar el "cableado" entre las capas de servicios y controllers, simplificación de sintaxis y orquestado de la arquitectura backend.
 - **[Kotlin](https://kotlinlang.org/docs/reference/):** Utilizamos Kotlin como el lenguaje de nuestro backend por su flexibilidad como lenguaje, su integración con Spring y por estar montado sobre la JVM (siendo Java un lenguaje al que estamos acostumbrados).
 - **SQL DB:** A priori utilizamos como Base de Datos SQL Server tal y como hacemos en la mayoría de los casos en la materia Estrategias de Persistencia (podríamos por ej variar y usar MariaDB, Postgres, etc).
-- **[NodeJs](https://nodejs.org/en/docs/):** El servidor web estará montado sobre nodejs sobre su compatibilidad con proyectos react, su amplia documentación y la gran mayoría de los problemas recurrentes ya se encuentran resueltos.
 
 ## CI
 
