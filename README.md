@@ -12,7 +12,7 @@ El proposito de esta aplicacion es facilitar la conexion entre gente con ganas d
 ## Arquitectura
 
 <p align="center">
-  <img src="Arquitectura.png" />
+  <img src="diag-arch.png" />
 </p>
 
 La aplicación está dividida en dos grandes partes, una parte de cliente y una de servidor.
