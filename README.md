@@ -30,7 +30,7 @@ La parte de cliente es la cargada de mostrar los datos de cada unos de los Donad
 - **[React](https://reactjs.org/docs/getting-started.html):** para el desarrollo del frontend utilizamos React (biblioteca escrita en JavaScript), facilita la creación de componentes interactivos y reutilizables.
 - **[Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/):** Como framework para el desarrollo de la aplicación por todas las herramientas que disponibiliza para facilitar el "cableado" entre las capas de servicios y controllers, simplificación de sintaxis y orquestado de la arquitectura backend.
 - **[Kotlin](https://kotlinlang.org/docs/reference/):** Utilizamos Kotlin como el lenguaje de nuestro backend por su flexibilidad como lenguaje, su integración con Spring y por estar montado sobre la JVM (siendo Java un lenguaje al que estamos acostumbrados).
-- **MySQL DB:** En principio utilizamos MySQL para la Base de Datos tal ya que inicialmente, el modelo es simple.
+- **[MySQL DB](https://dev.mysql.com/doc/):** En principio utilizamos MySQL para la Base de Datos tal ya que inicialmente, el modelo es simple.
 
 ## CI
 
