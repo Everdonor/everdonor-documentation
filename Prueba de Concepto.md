@@ -11,7 +11,7 @@ Siguiendo la arquitectura planteada en la página principal del repositorio, el 
 ## Capa de presentación en prueba de concepto
 
 <p align="center">
-  <img src="fotoApp.png" />
+  <img src="fotoApp.PNG" />
 </p>
 
 ## Casos de uso
