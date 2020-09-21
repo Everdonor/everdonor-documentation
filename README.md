@@ -47,3 +47,4 @@ Como host y herramienta de deployment planeamos utilizar [Zeit](https://zeit.co/
 ## Entregas
 
 - [Prueba de concepto](Prueba%20de%20Concepto.md)
+- [Entrega 1](Entrega-1.md)
