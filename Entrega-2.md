@@ -22,7 +22,7 @@ Para la segunda entrega se decidio agrega el servicio de Login, la busqueda por 
 ## Casos de uso
 
 <p align="center">
-  <img src="Casos de uso entrega 2.png" />
+  <img src="Casos de uso entrega 2.PNG" />
 </p>
 
 El usuario con rol de donante ingresa al mapa y quiere buscar por distancia a la redonda
