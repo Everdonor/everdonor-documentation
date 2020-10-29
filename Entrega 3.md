@@ -13,6 +13,10 @@ Tambien se incluyeron mejoras en el diseño de algunas paginas y mejoras de UI p
 ## Capa de presentación
 
 <p align="center">
+  <img src="apiDocs.png" />
+</p>
+
+<p align="center">
   <img src="onboarding.png" />
 </p>
 
@@ -28,7 +32,9 @@ Tambien se incluyeron mejoras en el diseño de algunas paginas y mejoras de UI p
   <img src="todoPago.png" />
 </p>
 
-
+<p align="center">
+  <img src="wp.png" />
+</p>
 
 ## Casos de uso
 
