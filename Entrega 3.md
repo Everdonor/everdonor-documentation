@@ -13,19 +13,19 @@ Tambien se incluyeron mejoras en el diseño de algunas paginas y mejoras de UI p
 ## Capa de presentación
 
 <p align="center">
-  <img src="onboarding.PNG" />
+  <img src="onboarding.png" />
 </p>
 
 <p align="center">
-  <img src="map.PNG" />
+  <img src="map.png" />
 </p>
 
 <p align="center">
-  <img src="userDetail.PNG" />
+  <img src="userDetail.png" />
 </p>
 
 <p align="center">
-  <img src="todoPago.PNG" />
+  <img src="todoPago.png" />
 </p>
 
 
@@ -33,7 +33,7 @@ Tambien se incluyeron mejoras en el diseño de algunas paginas y mejoras de UI p
 ## Casos de uso
 
 <p align="center">
-  <img src="entrega 3.PNG" />
+  <img src="entrega 3.png" />
 </p>
 
 El usuario con rol de donante puede hacer donaciones de dinero.
