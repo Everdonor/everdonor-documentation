@@ -19,7 +19,7 @@ Tambien se mejoro el tutorial de creacion de boton de todo pago
 </p>
 
 <p align="center">
-  <img src="mapa.png" />
+  <img src="mapaEntrega4.png" />
 </p>
 
 <p align="center">
